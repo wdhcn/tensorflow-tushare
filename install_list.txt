@@ -1,0 +1,5 @@
+lxml
+simplejson
+requests
+msgpack
+bs4
